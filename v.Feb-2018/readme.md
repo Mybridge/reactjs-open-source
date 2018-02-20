@@ -13,7 +13,7 @@ Open source projects can be useful for programmers. Hope you find an interesting
 
 ### Course of the month:
 
-A) Beginner: [Modern React with Redux.](http://bit.ly/snUrs5a) _[88,796 recommends, 4.6/5 stars]_
+A) Beginner: [Modern React with Redux.](http://bit.ly/2snUrs5a) _[88,796 recommends, 4.6/5 stars]_
 
 <br>
 
