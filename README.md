@@ -11,6 +11,8 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 ## Monthly Series for Open Source:
 
+<b><2018></b>
+ 
 * [v.Feb 2018 - Top 10 Open Source Projects](./src/02-2018.md)
 * [v.Mar 2018 - Top 10 Open Source Projects](./src/03-2018.md)
 * [v.Apr 2018 - Top 10 Open Source Projects](./src/04-2018.md)
@@ -21,6 +23,12 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 * [v.Sep 2018 - Top 10 Open Source Projects](./src/09-2018.md)
 * [v.Oct 2018 - Top 10 Open Source Projects](./src/10-2018.md)
 * [v.Nov 2018 - Top 10 Open Source Projects](./src/11-2018.md)
+* [v.Dec 2018 - Top 10 Open Source Projects](./src/12-2018.md)
+
+<br>
+
+<b><2019></b>
+  
 * [v.Dec 2018 - Top 10 Open Source Projects](./src/12-2018.md)
 
 <br>
